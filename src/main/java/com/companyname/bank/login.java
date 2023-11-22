@@ -8,6 +8,6 @@ public class login
 {
     public static void main( String[] args )
     {
-        System.out.println( "pom scm modify" );
+        System.out.println( "webkook add" );
     }
 }
