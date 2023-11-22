@@ -8,6 +8,6 @@ public class login
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World..modify" );
+        System.out.println( "pom scm modify" );
     }
 }
